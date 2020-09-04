@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+.content-box{ 
+    background-image: url("../covid tracker/emoimages/lifee.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.menu{
+    display: inline-flex;
+}
+.menu img{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+.banner-text{
+   position: absolute;
+   top: 20%;
+   left: 27%;
+   transform: translate(-50%,-50%);
+}
+.banner-text{
+    color: azure;
+    font-size: 29px;
+}
+/*-----------yoga----------*/
+.content-root{
+    background-image: url("../covid tracker/emoimages/yogaa.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    position: absolute;
+    top: 120%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+.container{
+    color: black;
+    font-size: 40px;
+}
+.ent{
+    font-size: 40px;
+    margin-top: 5px;
+    color: #000;
+    padding: 5px;
+}
+.content-fall{
+    background-image: url("../covid tracker/emoimages/health.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.content{
+    position: absolute;
+    top: 230%;
+    left: 15%;
+    transform: translate(-50%,-50%);
+}
+.content{
+    color: rgb(8, 3, 6);
+    font-size: 40px;
+}
+.content-rise{
+    background-image: url("../covid tracker/emoimages/acceptt.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.call{
+    position: absolute;
+    top: 340%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+.call{
+    color: black;
+    font-size: 40px;
+}
+.content-halt{
+    background-image: url("../covid tracker/emoimages/help.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.rise{
+    position: absolute;
+    top: 450%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+.rise{
+    color: black;
+    font-size: 40px;
+}
